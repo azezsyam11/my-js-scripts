@@ -1,1 +1,7 @@
-
+MemoryPatch::createWithHex(targetLibanogs, 0x377F24, "28 01 08 8B").Modify();
+MemoryPatch::createWithHex(targetLibanogs, 0x6F7FF4, "B4 64 7A D9").Modify();
+MemoryPatch::createWithHex(targetLibanogs, 0x1B5B88, "D4 BD 97 F8").Modify();
+MemoryPatch::createWithHex(targetLibanogs, 0xE964FC, "39 5B AD D5").Modify();
+MemoryPatch::createWithHex(targetLibanogs, 0xD36E9C, "B5 53 E5 F8").Modify();
+MemoryPatch::createWithHex(targetLibanogs, 0x7B7F68, "72 7B 2D DC").Modify();
+MemoryPatch::createWithHex(targetLibanogs, 0x7E6DE8, "6C E8 E8 EB").Modify();
