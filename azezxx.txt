@@ -1,4 +1,4 @@
-herePATCH_LIB("libUE4.so", 0xDD3B88, "48 E1 60 F4"); 
+PATCH_LIB("libUE4.so", 0xDD3B88, "48 E1 60 F4"); 
 PATCH_LIB("libUE4.so", 0x8D7F54, "91 61 69 D5"); 
 PATCH_LIB("libUE4.so", 0x67F7C, "25 2E 41 F9"); 
 PATCH_LIB("libUE4.so", 0x217BFC, "60 58 C1 F2"); 
