@@ -1,3 +1,21 @@
-libUE4.so|0x5D77F8|AB EF CF FE
-libUE4.so|0xB375D0|47 20 23 D7
-libUE4.so|0xAB79D8|78 CF D9 🖕🏻🖕🏻
+PATCH_LIB("libanogs.so", "0x1C6240", "00 00 80 D2 C0 03 5F D6"); // Emulator Detection
+PATCH_LIB("libanogs.so","0x470854","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x4956E0","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x4CF688","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x4F7274","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x327A40","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x35E5DC","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x35EB44","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x39F784","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x27B88C","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x32D9B4","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x321674","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x321678","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x32167C","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x321958","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x321B4C","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x321C58","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x2329BC","00 00 80 D2 C0 03 5F D6");
+PATCH_LIB("libanogs.so","0x232944","00 00 80 D2 C0 03 5F D6");
+➡️ USE STRONG CRASH FIXER 
+➡️ ALL BAN FIX BYPASS 64BIT
