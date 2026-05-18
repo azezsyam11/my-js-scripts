@@ -11,8 +11,6 @@ PATCH_LIB("libanogs.so","0x9C154","00 00 A0 E1");
 PATCH_LIB("libanogs.so","0x9E2F4","00 00 A0 E1");
 PATCH_LIB("libanogs.so","0x4F4DF4","1F 20 03 D5");
 PATCH_LIB("libanogs.so","0xE2E8C","00 00 A0 E1");
-PATCH_LIB("libanogs.so","0x500BDC","1F 20 03 D5");
-PATCH_LIB("libanogs.so", "0x228360", "00 00 80 D2 C0 03 5F D6"); 
 PATCH_LIB("libUE4.so", 0x5D77F8, "AB EF CF FE");
 PATCH_LIB("libUE4.so", 0xB375D0, "47 20 23 D7");
 PATCH_LIB("libUE4.so", 0xAB79D8, "78 CF D9 DC");
@@ -82,9 +80,6 @@ PATCH_LIB("libanogs.so","0x321C58","00 00 80 D2 C0 03 5F D6");
 PATCH_LIB("libanogs.so","0x2329BC","00 00 80 D2 C0 03 5F D6");
 PATCH_LIB("libanogs.so","0x232944","00 00 80 D2 C0 03 5F D6");
 PATCH_LIB("libanogs.so", "0x1C6240", "00 00 80 D2 C0 03 5F D6"); // Emulator Detection
-PATCH_LIB("libTDataMaster.so", "0x24F9E8", "00 00 80 D2 C0 03 5F D6"); // termios_p observer 
-PATCH_LIB("libTDataMaster.so", "0x24FBA0", "00 00 80 D2 C0 03 5F D6"); // termios_p observer 
-PATCH_LIB("libTDataMaster.so", "0x24FC48", "00 00 80 D2 C0 03 5F D6"); // termios_p observer 
 PATCH_LIB("libanogs.so","0x330494","00 00 80 D2 C0 03 5F D6");
 PATCH_LIB("libanogs.so","0x371418","00 00 80 D2 C0 03 5F D6");
 PATCH_LIB("libanogs.so","0x37FD78","00 00 80 D2 C0 03 5F D6");
