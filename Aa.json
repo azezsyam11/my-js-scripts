@@ -1,0 +1,13 @@
+{
+  "versionCode": 4,
+  "versionName": "4.4.0",
+  "url": "https://github.com/wlk17/Update1/releases/download/Update/_4.4.0.apk",
+  "message": "قم بل تنزيل للتمتع بل تطبيق",
+  "forceUpdate": true,
+  "fileSize": 22,
+  "md5": "a1b2c3d4e5f6789012345678901234567",
+  "releaseDate": "2026-04-21",
+  "changelog": "- إصلاح مشكلة باند الاسبوع\n- حل مشاكل الخروج التلقائي \n- اضافة مميزات كشف رباعية  ",
+  "minAndroidVersion": 21,
+  "downloadType": "direct"
+}
